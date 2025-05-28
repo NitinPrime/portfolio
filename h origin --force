@@ -1,0 +1,23 @@
+[33mcommit e33b07018d7af136170411fde89db92150536054[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Nitin <nitinprime2323@gmail.com>
+Date:   Wed May 28 18:36:41 2025 +0530
+
+    Remove .env from repo
+
+[33mcommit 012e17f9fa5aa5f594959151627aaf8a72d3ee8b[m
+Author: Nitin <nitinprime2323@gmail.com>
+Date:   Wed May 28 18:34:19 2025 +0530
+
+    Add backend email service with OAuth2 and nodemailer
+
+[33mcommit cec510278dc50cb594406ae9c773bce17ddbd54a[m
+Author: Nitin <nitinprime2323@gmail.com>
+Date:   Wed May 28 18:13:31 2025 +0530
+
+    Fix: ignore .env to protect secrets
+
+[33mcommit 26e24891372bc94be443019c329cfb87e75d6e41[m
+Author: Nitin <nitinprime2323@gmail.com>
+Date:   Wed May 28 18:07:23 2025 +0530
+
+    Removed secrets from repo

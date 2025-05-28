@@ -1,0 +1,53 @@
+.heading {
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 48px; /* Bigger heading */
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.about_me {
+    margin-top: 8%;
+    padding: 60px 40px;
+    background: linear-gradient(135deg, #1a1a1a, #101010);
+    border-radius: 20px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0 40px rgba(0, 255, 255, 0.08);
+}
+
+.about_me_info {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 40px;
+    flex-wrap: wrap; /* Responsive for small screens */
+}
+
+.about_me_left {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 1.7;
+    text-align: justify;
+    color: rgba(255, 255, 255, 0.9);
+    width: 58%;
+    min-width: 280px;
+}
+
+.about_me_right {
+    width: 38%;
+    min-width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about_me_right img {
+    width: 100%;
+    border-radius: 15px;
+    object-fit: cover;
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.1);
+}

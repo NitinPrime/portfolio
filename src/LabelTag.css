@@ -1,0 +1,17 @@
+.label-tag {
+  border: 2px solid;
+  border-radius: 20px;
+  padding: 8px 20px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  margin: 8px;
+  display: inline-block;
+  cursor: default;
+  user-select: none;
+  transition: background-color 0.3s ease;
+}
+
+.label-tag:hover {
+  background-color: rgba(3, 176, 253, 0.1);
+}
